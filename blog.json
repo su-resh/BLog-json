@@ -1,0 +1,20 @@
+[
+    {
+        "title": "AI",
+        "description": "Check Out first blog of mine.",
+        "image": "https://img.freepik.com/free-vector/cute-bot-say-users-hello-chatbot-greets-online-consultation_80328-195.jpg?t=st=1711299709~exp=1711303309~hmac=b3ed432206facb52fc290798c82eec39557eb4e480f986df72f5fd93ce4afedf&w=740",
+        "url": "https://blog.sureshsubedi.info.np/Contents/ai"
+    },
+    {
+        "title": "Second Blog Post",
+        "description": "This is the description for the second blog post.",
+        "image": "https://via.placeholder.com/800x400",
+        "url": "#"
+    },
+    {
+        "title": "Third Blog Post",
+        "description": "This is the description for the third blog post.",
+        "image": "https://via.placeholder.com/800x400",
+        "url": "#"
+    }
+]
